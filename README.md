@@ -7,7 +7,7 @@ Schema saved to local file at : `schema/petstore.json`, modified default host an
 
 ## Prerequisite
 
-    go version go1.12.3 or above with [go module](https://github.com/golang/go/wiki/Modules) support enabled
+    go version go1.12.3 or above with go module( see https://github.com/golang/go/wiki/Modules) support enabled
     node v10 or above and yarn 1.12.3 or above for integration test
     docker 18.09.2 or above for running mongodb
     
