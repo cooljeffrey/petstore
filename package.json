@@ -1,0 +1,14 @@
+{
+  "name": "petstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeffrey Yu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "swagger-client": "^3.8.25"
+  },
+  "scripts": {
+    "test": "jest -i"
+  }
+}
